@@ -1,0 +1,8 @@
+/* src/app/seat-booking/seat-booking.component.css */
+.booked {
+    color: red;
+  }
+  .available {
+    color: green;
+  }
+  
